@@ -1,0 +1,18 @@
+<!DOCTYPE RCC>
+<RCC>
+    <qresource prefix="/">
+        <file>resource/p1Bullet.png</file>
+        <file>resource/p2Bullet.png</file>
+        <file>resource/enemyBullet.png</file>
+        <file>resource/enemyImg.png</file>
+        <file>resource/p1Img.png</file>
+        <file>resource/p2Img.png</file>
+        <file>resource/p1Img_skill.png</file>
+        <file>resource/p2Img_skill.png</file>
+        <file>resource/homePageImg.png</file>
+        <file>resource/playerPageImg.png</file>
+        <file>resource/mainPageImg.png</file>
+        <file>resource/scoreImg.png</file>
+        <file>resource/skillcountImg.png</file>
+    </qresource>
+</RCC>
